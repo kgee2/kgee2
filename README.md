@@ -45,7 +45,7 @@
 </div>
 <div align=center>
     <div>
-        <p>국내 여행 상품/티켓 구매 & 동행 찾기</p>
+        <p>국내 여행 상품/티켓 구매 & 동행 찾기 웹 애플리케이션</p>
         <p>웹 페이지(AWS EC2) : 
             <a href="http://52.79.213.21:8090/my-real-korea">http://52.79.213.21:8090/my-real-korea</a>
         </p>
@@ -60,8 +60,8 @@
 </div>
 <div align=center>
     <div>
-        <p>신발 쇼핑몰</p>
+        <p>신발 쇼핑 웹 애플리케이션</p>
         <p>프로젝트 GitHub : 
-            <a href="https://github.com/kgee2/my-real-korea">https://github.com/kgee2/web-project-shoekream</a>
+            <a href="https://github.com/kgee2/web-project-shoekream">https://github.com/kgee2/web-project-shoekream</a>
         </p>
     </div>
